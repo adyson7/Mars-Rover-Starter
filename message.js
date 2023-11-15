@@ -1,5 +1,7 @@
 class Message {
-   // Write code here!
+  constructor(name,commands) {
+
+  }
 }
 
 module.exports = Message;
